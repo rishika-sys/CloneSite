@@ -1,0 +1,118 @@
+.div1{
+  padding-bottom: 0px;
+   width:100%;
+  background-color:  #194350;
+    font-family: 'Open Sans', sans-serif;
+  display:inline-block;
+text-align: left;
+font-size:15px;
+}
+.div2{
+  background-color: #8FD9A8;
+  color:#194350;
+  text-align:center;
+font-family: 'Rajdhani', sans-serif;
+font-size: 10px;
+}
+h3{
+  margin:0;
+  font-size: 40px;
+  font-family: 'Rajdhani', sans-serif;
+  padding-top: 20px;
+  color:#00ADB5;
+}
+p{
+  font-size: 20px;
+  padding:30px;
+
+}
+.p1{
+  width:60%;
+  margin:80px auto;
+  text-align: justify;
+}
+.div3{
+  color:grey;
+  display:inline-block;
+  position:relative;
+
+}
+.img1{
+  height:80px;
+  width:80px;
+  float:right;
+  margin-right: 100px;
+}
+.table{
+  color:grey;
+  font-size:20px;
+  margin-bottom: 50px;
+  margin-left: 0px;
+  display:inline-block;
+  width:70%;
+}
+hr{
+color:#888;
+}
+.td1{
+  width:10%;
+}
+.tab1{
+  padding-bottom: 30px;
+  padding-top: 30px;
+  width:70%;
+
+margin-left:300px;
+}
+.div4{
+  color:#888;
+}
+
+
+.form1{
+
+  height:100%;
+  display:inline-block;
+  width:40%;
+  color:#888;
+  float:right;  /*we can use both float and display inline block together*/
+}
+.list{
+  padding-top: 0px;
+  color:#888;
+ margin-left:200px;
+ font-size: 20px;
+
+}
+.head{
+  display:inline-block;
+  text-align:left;
+  width:40%;
+  margin-left:70px;
+  position:relative;
+  padding-bottom:0px;
+  font-family:  'Montserrat', sans-serif;
+  font-weight: lighter;
+  font-size:40px;
+
+}
+.div6{
+  text-align: left;
+  color:#888;
+  width:40%;
+}
+.divmain
+{
+  position: relative;
+  margin-bottom: 0;
+  color:#888;
+
+}
+.reghead{
+  margin:0 120px 0px 20px;
+  text-align: left;
+
+}
+h2{
+  font-size:30px;
+}
